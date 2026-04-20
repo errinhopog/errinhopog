@@ -56,9 +56,18 @@ Minha abordagem une o desenvolvimento de software com a engenharia de infraestru
 **Software Engineer** | *Digital Transformation & E-commerce*
 > Liderança técnica na transformação digital de um negócio físico para o digital.
 - **Engenharia:** Orquestração de stack WordPress/WooCommerce gerenciando **3000+ produtos**.
-- **Automação:** Scripts ETL (Python/Node.js) para atualização massiva de estoque e preços via CSV.
-- **Inovação:** Web App Mobile interno para **Gestão de Estoque em Tempo Real** (leitura de código de barras), eliminando processos manuais.
-- **IA:** Chatbot de atendimento automatizado via WhatsApp, treinado com as regras de negócio da loja.
+- **Integração:** Desenvolvimento do **StockSync**, um middleware em Python para orquestrar e sincronizar inventário entre o ERP offline (Athos) e a loja virtual.
+- **Inovação:** Web App Mobile interno para Gestão de Estoque em Tempo Real.
+
+### 🏙️ Comércio BES (Marketplace) `Em Desenvolvimento`
+**Full-Stack Developer** | *Next.js & Arquitetura*
+> Plataforma digital projetada para centralizar negócios locais em um hub moderno e escalável.
+- **Engenharia:** Construído do zero utilizando o ecossistema **Next.js**, priorizando performance e controle total do código sobre CMSs tradicionais.
+
+### 🌺 Plataforma E-commerce B2B/B2C (Catálogo Digital)
+**Freelance Full-Stack Developer** | *Next.js & Performance*
+> E-commerce customizado desenvolvido para o setor de floricultura.
+- **Desenvolvimento Moderno:** Foco extremo em tempo de carregamento e UX, com arquitetura customizada para superar as limitações de performance de ferramentas baseadas em plugins (como Elementor).
 
 ### ⚡ Infraestrutura Híbrida (Prod & HomeLab)
 **SysAdmin** | *Virtualization & Networking*
@@ -87,11 +96,6 @@ Minha abordagem une o desenvolvimento de software com a engenharia de infraestru
 </div>
 
 ---
-
-## 🎯 Foco Atual & Roadmap (2026)
-- [ ] Migração de microsserviços críticos para **Kubernetes (k3s)**.
-- [ ] Implementação de **Análise Preditiva de Estoque** com IA na AquaFlora.
-- [ ] Contribuição Open Source em ferramentas de *Self-Hosting*.
 
 ---
 
