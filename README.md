@@ -90,10 +90,19 @@ Minha abordagem une o desenvolvimento de software com a engenharia de infraestru
 
 ## 📊 GitHub Stats
 
-<div align="center">
-![pedrobragabes's GitHub Stats](https://readme-stats-github.pages.dev/api?username=pedrobragabes&theme=dark) 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=pedrobragabes&theme=dark)
-</div>
+<p align="center">
+  <img 
+    src="https://readme-stats-github.pages.dev/api?username=pedrobragabes&theme=dark" 
+    alt="pedrobragabes's GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://readme-stats-github.pages.dev/api/top-langs?username=pedrobragabes&theme=dark&layout=compact" 
+    alt="Top Languages" 
+    height="180"
+  />
+</p>
+
 
 ---
 
