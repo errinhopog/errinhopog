@@ -91,8 +91,7 @@ Minha abordagem une o desenvolvimento de software com a engenharia de infraestru
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrobragabes&show_icons=true&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobragabes&layout=compact&theme=github_dark&cache_seconds=7200&hide_border=true&bg_color=0d1117" alt="Linguagens mais usadas" height="180" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrobragabes)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 ---
