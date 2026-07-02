@@ -91,7 +91,8 @@ Minha abordagem une o desenvolvimento de software com a engenharia de infraestru
 ## 📊 GitHub Stats
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=pedrobragabes)](https://github.com/stats-organization/github-stats-extended)
+![pedrobragabes's GitHub Stats](https://readme-stats-github.pages.dev/api?username=pedrobragabes&theme=dark) 
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=pedrobragabes&theme=dark)
 </div>
 
 ---
