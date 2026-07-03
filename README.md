@@ -1,119 +1,177 @@
 <div align="center">
   <img src="https://github.com/pedrobragabes/pedrobragabes/blob/main/media/Pedro%20Braga.png" alt="Banner Pedro Braga" width="100%" />
 
-  # Pedro Braga
-  **Software Engineer • DevOps • Hardware Enthusiast**
+# Pedro Braga
 
-  > *"Projetando ecossistemas digitais que escalam e gerenciando a infraestrutura onde eles rodam."*
+**Software Engineer • Full-Stack Developer • Computer Engineering Student**
 
-  <p align="center">
-    <a href="#-tech-stack">Stack</a> •
-    <a href="#-projetos-em-destaque">Projetos</a> •
-    <a href="#-contato">Contato</a>
-  </p>
+Estudante de Engenharia de Computação na UNIVESP, desenvolvendo aplicações web, integrações, automações e infraestrutura para produtos reais.
+
+<a href="#stack">Stack</a> • <a href="#projetos">Projetos</a> • <a href="#contato">Contato</a>
+
 </div>
 
 ---
 
-## 👨‍💻 Sobre
-Estudante de **Engenharia de Computação (UNIVESP)** focado em resolver problemas reais de negócio através da tecnologia.
+## Sobre
 
-Minha abordagem une o desenvolvimento de software com a engenharia de infraestrutura. Atuo no **ciclo completo**: da arquitetura da aplicação (Full Stack) à implementação do servidor "bare-metal" (Infra/Ops/On-Premise), garantindo performance e alta disponibilidade.
+Sou desenvolvedor focado em **Full-Stack Development**, com interesse forte em arquitetura de software, aplicações web modernas, automações e infraestrutura.
+
+Atualmente trabalho como **Software Engineer na AquaFlora AgroShop**, atuando no desenvolvimento de sistemas internos, integrações com WooCommerce, sincronização de estoque, APIs, automações e suporte técnico à operação digital.
+
+Também estudo continuamente **React, Next.js, Engenharia de Software, Backend, Banco de Dados e DevOps**, combinando formação acadêmica, cursos práticos e projetos próprios.
 
 ---
 
-## 🛠 Tech Stack
+## Stack
 
 <div align="center">
 
-**Infraestrutura & DevOps**<br>
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![ZFS](https://img.shields.io/badge/ZFS-Storage-blue?style=flat-square&logo=linux&logoColor=white)
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
 
-**Backend & Dados**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+**Backend & Dados**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
-**Frontend & Design**<br>
-![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**Ferramentas & Infraestrutura**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square\&logo=proxmox\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square\&logo=wordpress\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square\&logo=woocommerce\&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## Formação
 
-### 🏢 [AquaFlora AgroShop](https://aquafloragroshop.com.br)
-**Software Engineer** | *Digital Transformation & E-commerce*
-> Liderança técnica na transformação digital de um negócio físico para o digital.
-- **Engenharia:** Orquestração de stack WordPress/WooCommerce gerenciando **3000+ produtos**.
-- **Integração:** Desenvolvimento do **StockSync**, um middleware em Python para orquestrar e sincronizar inventário entre o ERP offline (Athos) e a loja virtual.
-- **Inovação:** Web App Mobile interno para Gestão de Estoque em Tempo Real.
+**Bacharelado em Engenharia de Computação**
+Universidade Virtual do Estado de São Paulo — UNIVESP
+2025 — 2030
 
-### 🏙️ Comércio BES (Marketplace) `Em Desenvolvimento`
-**Full-Stack Developer** | *Next.js & Arquitetura*
-> Plataforma digital projetada para centralizar negócios locais em um hub moderno e escalável.
-- **Engenharia:** Construído do zero utilizando o ecossistema **Next.js**, priorizando performance e controle total do código sobre CMSs tradicionais.
+Estudos complementares em desenvolvimento web, React, Next.js, Engenharia de Software, backend, bancos de dados e infraestrutura.
 
-### 🌺 Plataforma E-commerce B2B/B2C (Catálogo Digital)
-**Freelance Full-Stack Developer** | *Next.js & Performance*
-> E-commerce customizado desenvolvido para o setor de floricultura.
-- **Desenvolvimento Moderno:** Foco extremo em tempo de carregamento e UX, com arquitetura customizada para superar as limitações de performance de ferramentas baseadas em plugins (como Elementor).
-
-### ⚡ Infraestrutura Híbrida (Prod & HomeLab)
-**SysAdmin** | *Virtualization & Networking*
-> Servidor On-Premise sustentando aplicações críticas e ambiente de desenvolvimento.
-- **Virtualização:** Cluster **Proxmox VE** otimizado (Kernel Tuning), gerenciando contêineres LXC e VMs.
-- **Segurança:** Rede **Zero Trust (Tailscale)** e Proxy Reverso (Nginx/SSL) para exposição segura de serviços locais.
-- **Storage:** Implementação de ZFS com snapshots automáticos e estratégia de *Disaster Recovery*.
-
-### ⚔️ Kingdom of Aen (Game Engine) `WIP`
-**Developer** | *Vanilla JS & Architecture*
-> Engine de Card Game desenvolvida sem frameworks para estudo aprofundado de lógica.
-- **Arquitetura:** Uso estrito de **POO** e Design Patterns (State, Observer) para gerenciamento de turnos.
-- **Performance:** Renderização otimizada via manipulação direta do DOM, com **zero dependências externas**.
-
-### 🕹️ [JoysticKnights](https://joysticknights.com.br)
-**Founder & Webmaster** | *Media Portal*
-- **SEO Técnico:** Otimização agressiva de *Core Web Vitals* (Lighthouse/PageSpeed) e estrutura de dados para indexação.
+**Idiomas:** Português nativo • Inglês avançado/fluente — EF SET C1
 
 ---
 
-## 📊 GitHub Stats
+## Projetos
+
+### AquaFlora AgroShop
+
+**Software Engineer**
+
+Desenvolvimento de soluções internas, integrações e automações para apoiar a operação digital de uma loja física.
+
+* Desenvolvimento do **AquaFlora Estoque Sync**, middleware em Python para sincronização de estoque entre ERP legado e WooCommerce.
+* Criação de web app interno mobile-first para consulta de estoque e preços.
+* Integrações com APIs, automações operacionais e suporte à loja virtual.
+* Atuação com WordPress, WooCommerce, Python, Node.js, Docker, REST APIs e infraestrutura Linux.
+
+[Ver site](https://aquafloragroshop.com.br)
+
+---
+
+### Comércio BES
+
+**Full-Stack Developer**
+
+Marketplace e guia digital hiperlocal para Boa Esperança do Sul.
+
+* Desenvolvimento de plataforma própria com foco em negócios locais.
+* Arquitetura mobile-first, busca por categorias, experiência PWA e integração com WhatsApp.
+* Evolução para stack moderna com React/Next.js, API própria e estrutura escalável.
+
+---
+
+### E-commerce / Catálogo Digital B2B e B2C
+
+**Full-Stack Developer**
+
+Plataforma customizada para catálogo digital e vendas via WhatsApp.
+
+* Desenvolvimento com Next.js, React, Tailwind CSS, Node.js, MySQL e Prisma.
+* Painel administrativo com CRUD.
+* Integração com Cloudinary.
+* Foco em performance, SEO e experiência mobile.
+
+---
+
+### RastreIAGastos + CadastraFácil
+
+**Projetos SaaS em desenvolvimento**
+
+Projetos voltados para automação, produtividade e pequenas empresas.
+
+* RastreIAGastos: controle financeiro com IA, linguagem natural e OCR.
+* CadastraFácil: cadastro de produtos para PMEs com validação e API unificada.
+* Stack planejada com Python, FastAPI, React, PostgreSQL e integrações de IA.
+
+---
+
+### JoysticKnights
+
+**Founder & Webmaster**
+
+Portal brasileiro de games criado e mantido desde 2020.
+
+* Desenvolvimento e manutenção em WordPress.
+* Customizações em PHP, JavaScript e CSS.
+* Produção editorial, reviews, guias e relacionamento com publishers.
+
+[Ver site](https://joysticknights.com.br)
+
+---
+
+### Hybrid HomeLab
+
+**Infraestrutura própria**
+
+Ambiente local para estudos, deploys, automações e serviços internos.
+
+* Servidor com Proxmox, Docker, Linux, Nginx e containers LXC.
+* Hospedagem de APIs, serviços internos, dashboards e ferramentas auxiliares.
+* Estudos práticos de rede, proxy reverso, SSL, backup, monitoramento e virtualização.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img 
     src="https://readme-stats-github.pages.dev/api?username=pedrobragabes&theme=dark" 
-    alt="pedrobragabes's GitHub Stats" 
-    height="180"
+    alt="GitHub Stats" 
+    height="170"
   />
   <img 
     src="https://readme-stats-github.pages.dev/api/top-langs?username=pedrobragabes&theme=dark&layout=compact" 
     alt="Top Languages" 
-    height="180"
+    height="170"
   />
 </p>
-
-
----
 
 ---
 
 <div align="center" id="contato">
 
-### Vamos construir algo juntos?
+## Contato
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobraga855@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrobragabes/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrobragabes/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:pedrobraga855@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/pedrobragabes/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/pedrobragabes/)
 
 </div>
