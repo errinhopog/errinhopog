@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: Check profile assets and links
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s README.md
+          test -s "media/Pedro Braga.png"
+          ! grep -Eq 'github\.com/yourusername|example\.com' README.md
+
