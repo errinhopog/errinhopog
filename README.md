@@ -69,7 +69,9 @@ Estudos complementares em desenvolvimento web, React, Next.js, Engenharia de Sof
 
 ---
 
-## Projetos
+## Projetos selecionados
+
+Os projetos abaixo representam três frentes coerentes do meu trabalho: produtos web completos, automação operacional e infraestrutura para colocar software em produção.
 
 ### AquaFlora AgroShop
 
@@ -84,17 +86,21 @@ Desenvolvimento de soluções internas, integrações e automações para apoiar
 
 [Ver site](https://aquafloragroshop.com.br)
 
+[Estoque Sync (Python)](https://github.com/pedrobragabes/aquaflora-stock-sync)
+
 ---
 
-### Comércio BES
+### Braga Commerce
 
 **Full-Stack Developer**
 
-Marketplace e guia digital hiperlocal para Boa Esperança do Sul.
+Base de e-commerce para pequenos comércios, com catálogo, pedidos, estoque e painel administrativo.
 
-* Desenvolvimento de plataforma própria com foco em negócios locais.
-* Arquitetura mobile-first, busca por categorias, experiência PWA e integração com WhatsApp.
-* Evolução para stack moderna com React/Next.js, API própria e estrutura escalável.
+* Next.js, React, PostgreSQL, Prisma, Supabase Storage e Mercado Pago.
+* Preço, estoque, pagamento e permissões validados no servidor.
+* Rotinas de backup, expiração de pedidos, testes e monitoramento por GitHub Actions.
+
+[Ver código](https://github.com/pedrobragabes/Braga-Commerce)
 
 ---
 
@@ -121,6 +127,8 @@ Projetos voltados para automação, produtividade e pequenas empresas.
 * CadastraFácil: cadastro de produtos para PMEs com validação e API unificada.
 * Stack planejada com Python, FastAPI, React, PostgreSQL e integrações de IA.
 
+Monorepo privado; arquitetura, segurança e automação são demonstradas nos estudos de caso do portfólio.
+
 ---
 
 ### JoysticKnights
@@ -134,6 +142,22 @@ Portal brasileiro de games criado e mantido desde 2020.
 * Produção editorial, reviews, guias e relacionamento com publishers.
 
 [Ver site](https://joysticknights.com.br)
+
+[Ver código do frontend headless](https://github.com/pedrobragabes/JoysticKnights)
+
+---
+
+### Kingdom of Aen
+
+**Game Development**
+
+Jogo de cartas tático para navegador, construído com HTML, CSS e JavaScript puro.
+
+* Engine de partidas em melhor de três rodadas, IA local e deck builder.
+* Regras, habilidades, clima, persistência local e validação automatizada de dados/assets.
+* Projeto usado para demonstrar modelagem de domínio e arquitetura front-end sem framework.
+
+[Ver código](https://github.com/pedrobragabes/Kingdom-of-Aen)
 
 ---
 
