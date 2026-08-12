@@ -149,6 +149,17 @@ Ambiente local para estudos, deploys, automações e serviços internos.
 
 ---
 
+## Projetos Integradores UNIVESP
+
+- [PI I — Conecta Bairro](https://github.com/pedrobragabes/univesp-pi1-conecta-bairro)
+- [PI II — Nexo](https://github.com/pedrobragabes/univesp-pi2-nexo)
+- [PI III — Vértice](https://github.com/pedrobragabes/univesp-pi3-vertice)
+- [PI IV — Atlas](https://github.com/pedrobragabes/univesp-pi4-atlas)
+- [PI V — Sentinela](https://github.com/pedrobragabes/univesp-pi5-sentinela)
+- [PI VI — Horizonte](https://github.com/pedrobragabes/univesp-pi6-horizonte)
+
+---
+
 ## GitHub Stats
 
 <p align="center">
